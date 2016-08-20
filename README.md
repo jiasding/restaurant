@@ -1,2 +1,3 @@
 # restaurant
-Laioffer Project Class (Chihuo). A restaurant recommendation app.
+personalized recommendation restaurant system. Go FOOOOOOOOOOD!!!!
+
